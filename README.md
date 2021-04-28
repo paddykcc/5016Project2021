@@ -10,5 +10,5 @@ From below we address 4 examples of different deep learning approaches
 3. Face Recognition by VGG16 Transfer Learning
 4. Face Detector by Dlib
 
-Each of these four examples will be analyzed and explained in below sections. In addition, we will discuss the migration of these four applications to a web platform by tensorflow.js.
+In addition, we will discuss the migration of these four applications to a web platform by tensorflow.js.
 
